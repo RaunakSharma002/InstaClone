@@ -1,17 +1,88 @@
-# instagram_clone
+# Instagram Clone
 
-A new Flutter project.
+## Description
 
-## Getting Started
+Instagram Clone is a feature-rich mobile application built using Flutter and Firebase, aiming to replicate the core functionalities of Instagram. The app allows users to upload, view, and interact with photos and videos, follow other users, and search for content.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**: Secure sign up and login functionality using Firebase Authentication.
+- **Photo and Video Upload**: Users can upload photos and videos directly from their device.
+- **Feed**: View posts from users you follow in a centralized feed.
+- **Profile**: Personalized user profiles displaying user’s posts and information.
+- **Search**: Search for users and view their profiles.
+- **Like and Comment**: Interact with posts by liking and commenting.
+- **Follow/Unfollow**: Follow or unfollow other users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# InstaClone
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/login_page.jpg" alt="Login Page" width="200"/>
+      <p>Login Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/feed_page.jpg" alt="Feed Page" width="200"/>
+      <p>Feed Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/profile_page.jpg" alt="Profile Page" width="200"/>
+      <p>Profile Page</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/search_page.jpg" alt="Search Page" width="200"/>
+      <p>Search Page</p>
+    </td>
+  </tr>
+</table>
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/instagram_clone.git
+    cd instagram_clone
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app:**
+    ```bash
+    flutter run
+    ```
+
+## Configuration
+
+To connect the app to your Firebase project, follow these steps:
+
+1. **Create a new Firebase project** on the [Firebase Console](https://console.firebase.google.com/).
+2. **Add an Android app** to your Firebase project.
+3. **Download the `google-services.json`** file and place it in the `android/app` directory.
+4. **Enable Firebase Authentication**, Firestore Database, and Storage in the Firebase Console.
+
+## Technologies Used
+
+- **Flutter**: For building the cross-platform mobile application.
+- **Firebase**: For backend services including authentication, Firestore, and storage.
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me at your_email@example.com.
+
+---
+
+Thank you for checking out the Instagram Clone! 📸
