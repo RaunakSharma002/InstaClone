@@ -19,19 +19,11 @@ Instagram Clone is a feature-rich mobile application built using Flutter and Fir
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/login_page.jpg" alt="Login Page" width="200"/>
-      <p>Login Page</p>
+      <img src="https://github.com/RaunakSharma002/InstaClone/blob/main/assets/upload.jpg" alt="Upload" width="300"/>
+      <p>Upload Page</p>
     </td>
     <td style="text-align: center;">
-      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/feed_page.jpg" alt="Feed Page" width="200"/>
-      <p>Feed Page</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/profile_page.jpg" alt="Profile Page" width="200"/>
-      <p>Profile Page</p>
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/yourusername/yourrepositoryname/blob/main/screenshots/search_page.jpg" alt="Search Page" width="200"/>
+      <img src="https://github.com/RaunakSharma002/InstaClone/blob/main/assets/search.jpg" alt="Search Page" width="300"/>
       <p>Search Page</p>
     </td>
   </tr>
@@ -43,8 +35,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/instagram_clone.git
-    cd instagram_clone
+    git clone https://github.com/RaunakSharma002/InstaClone.git
+    cd InstaClone
     ```
 
 2. **Install dependencies:**
@@ -81,7 +73,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at your_email@example.com.
+If you have any questions or feedback, feel free to reach out to me at raunaksharma22345@gmail.com.
 
 ---
 
